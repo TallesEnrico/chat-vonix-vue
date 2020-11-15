@@ -6,6 +6,6 @@
 
 # Para rodar o projeto Vue
 #### 1º Abra o Prompt de comando dentro da pasta
-#### 2º Execute o comando npm install para que todas dependências sejam instaladas
+#### 2º Execute o comando "npm install" para que todas dependências sejam instaladas
 #### 3º Após instalar, execute o comando "npm run dev" ainda dentro da pasta
 #### - O servidor Vue irá rodar em 'http://localhost:8080' caso não haja previa configuração
