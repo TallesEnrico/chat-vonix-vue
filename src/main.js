@@ -9,7 +9,6 @@ import {routes} from './functions/routes.js'
 import alert from './functions/alerts'
 import store from './functions/vueX'
 
-
 //COMPONENTES GLOBAIS
 import Conteudo from './components/compartilhados/Conteudo'
 import Sair from './components/compartilhados/Sair'
@@ -18,7 +17,6 @@ import Audio from './components/compartilhados/Audio'
 Vue.component('Conteudo', Conteudo);
 Vue.component('Sair', Sair);
 Vue.component('Audio', Audio);
-
 
 //PROPTYPES
 Vue.prototype.$socket         = io.connect('http://localhost:3000');
